@@ -1,2 +1,0 @@
-
-print(_name_)
